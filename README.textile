@@ -1,4 +1,4 @@
-**Depreciated - See "ProFiller":http:://www.github.com/hpadrick/ProFiller **
+**Depreciated - See "ProFiller":http://www.github.com/hpadrick/ProFiller**
 
 h1. Form Filler
 
